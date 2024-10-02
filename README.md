@@ -1,5 +1,5 @@
 # Palavras-por-minuto-
-Um projeto simples de digitação em Python, que utiliza a biblioteca curses, random e time
+Um projeto simples de digitação em Python, que utiliza a biblioteca `curses`, `random` e `time`.
 ## Funcionalidades
 - Mostra frases aleatórias para digitação.
 - Calcula a velocidade em palavras por minuto (WPM).
